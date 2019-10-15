@@ -32,6 +32,6 @@ Práctica con Fundamentos Básicos de Html5
   <li>Campeón de la Copa Sudamericana 2009</li>
   <li>Campeón de la Recopa Sudamericana 2010</li>
 </ul>
-<h1> Datos Personale</h1> 
+<h1> Datos Personales</h1> 
  <p>David Sarume&ntilde;o Avila </br></p>
  <p>Universidad Polit&eacutecnica Salesiana</p>
